@@ -1,5 +1,5 @@
 FROM ubuntu
-FROM REDIS
+FROM redis
 
 MAINTAINER Rajat Saxena <rockmax.test@gmail.com>
 
