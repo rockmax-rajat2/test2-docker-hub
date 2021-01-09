@@ -3,6 +3,6 @@ FROM redis
 
 MAINTAINER Rajat Saxena <rockmax.test@gmail.com>
 
-RUN ps
+RUN pwd
 
 RUN ls
